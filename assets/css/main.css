@@ -1,3 +1,9 @@
+:root {
+  --colorPrimario = #134156;
+  --colorSecundario = #2E828B;
+  --colorTerciario = #8AD8ED;
+}
+
 header {
   display: flex;
 }
