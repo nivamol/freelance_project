@@ -1,11 +1,14 @@
 :root {
-  --colorPrimario = #134156;
-  --colorSecundario = #2E828B;
-  --colorTerciario = #8AD8ED;
+  --colorPrimario: #134156;
+  --colorSecundario: #2E828B;
+  --colorTerciario:  #8AD8ED;
+  --fuentePrimaria :'Montserrat', sans-serif;
+
 }
 
 header {
   display: flex;
+  font-family: var(--fuentePrimaria);
 }
 
 header div.button-language {
