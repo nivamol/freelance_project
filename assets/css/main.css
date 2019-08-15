@@ -22,7 +22,8 @@ div.logo {
 }
 
 .logo img {
-
+  width: 350px;
+  height: 200px;
 }
 
 .logo h1{
