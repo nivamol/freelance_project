@@ -25,6 +25,13 @@ header {
   margin: 1.2em 3em;
   background-color: var(--colorSecundario);
   color: white;
+  cursor: pointer;
+}
+
+.button-language button:hover {
+  background-color: black;
+  color: white;
+  transition: .5s;
 }
 
 span.icon-circle-down {
@@ -51,6 +58,13 @@ div.logo {
   margin: 1.2em 3em;
   background-color: var(--colorSecundario);
   color: white;
+  cursor: pointer;
+}
+
+.button-contact button:hover {
+  background-color: black;
+  color: white;
+  transition: .5s;
 }
 
 div.menu {
