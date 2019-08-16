@@ -19,9 +19,11 @@ header {
 
 .button-language button {
   padding: .8em 2em;
-  border: 5px solid var(--colorPrimario);
+  border: none;
   border-radius: 35px;
   margin: 1.2em 3em;
+  background-color: var(--colorSecundario);
+  color: white;
 }
 
 div.logo {
@@ -39,9 +41,11 @@ div.logo {
 
 .button-contact button {
   padding: .8em 2em;
-  border: 5px solid var(--colorSecundario);
+  border: none;
   border-radius: 35px;
   margin: 1.2em 3em;
+  background-color: var(--colorSecundario);
+  color: white;
 }
 
 div.menu {
