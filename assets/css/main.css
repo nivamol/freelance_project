@@ -94,9 +94,12 @@ section.hero {
   display: flex;
   flex-direction: column; 
   text-align: center;
+  font-family: var(--fuentePrimaria);
 }
 
 .hero div.titulo-principal {
+  font-size: 1.6em;
+  margin-top: 3em;
 }
 
 
