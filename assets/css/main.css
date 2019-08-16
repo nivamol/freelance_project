@@ -30,6 +30,12 @@ div.logo {
 
 }
 
+.button-contact button {
+  padding: .8em 2em;
+  border: 5px solid var(--colorSecundario);
+  border-radius: 35px;
+}
+
 div.menu {
 
 }
