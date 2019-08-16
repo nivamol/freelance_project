@@ -45,13 +45,17 @@ div.logo {
 }
 
 div.menu {
-
+  text-align: center;
 }
 
 .menu nav {
-
+  margin-top: 1em;
 }
 
 nav a {
-
+  padding: 0 2em;
+  font-size: 1.3em;
+  font-family: var(--fuentePrimaria);
+  text-decoration: none;
+  color: var(--colorPrimario);
 }
