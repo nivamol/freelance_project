@@ -90,3 +90,16 @@ nav a:hover {
   transition: .3s;
 }
 
+section.hero {
+  display: flex;
+  flex-direction: column; 
+  text-align: center;
+}
+
+.hero div.titulo-principal {
+}
+
+
+.hero div.titulo-secundario {
+
+}
