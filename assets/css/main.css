@@ -62,6 +62,7 @@ nav a {
   font-family: var(--fuentePrimaria);
   text-decoration: none;
   color: var(--colorPrimario);
+  font-weight: bold;
 }
 
 nav a:hover {
