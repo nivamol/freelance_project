@@ -9,12 +9,14 @@
 header {
   display: flex;
   font-family: var(--fuentePrimaria);
+  justify-content: space-between;
 }
 
 .button-language button {
   padding: .8em 2em;
   border: 5px solid var(--colorPrimario);
   border-radius: 35px;
+  margin: 1.2em 3em;
 }
 
 div.logo {
@@ -34,6 +36,7 @@ div.logo {
   padding: .8em 2em;
   border: 5px solid var(--colorSecundario);
   border-radius: 35px;
+  margin: 1.2em 3em;
 }
 
 div.menu {
