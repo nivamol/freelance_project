@@ -26,6 +26,10 @@ header {
   color: white;
 }
 
+span.icon-circle-down {
+  margin: 0 .7em;
+}
+
 div.logo {
   
 }
