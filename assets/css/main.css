@@ -163,7 +163,7 @@ section.skills {
 
 .skill span.icon {
   font-size: 10em;
-  color: var(--colorPrimario);
+  color: black;
 }
 
 .skill p {
