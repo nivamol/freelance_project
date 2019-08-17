@@ -102,6 +102,38 @@ section.hero {
   margin-top: 3em;
 }
 
+div.button-buscar {
+  display: flex;
+  justify-content: space-between;
+  font-size: .8em;
+  border: 3px solid black;
+  width: 60%;
+  margin: 4em auto;
+  padding: .5em;
+  border-radius: 40px;
+  background-color: black;
+  color: var(--colorTerciario);
+  font-family: var(--fuentePrimaria);
+}
+
+.button-buscar h2 {
+  letter-spacing: .2em;
+  
+}
+
+.button-buscar button {
+  border-radius: 25px;
+  padding: 0 2em;
+  font-size: 1.2em;
+  background-color: var(--colorTerciario);
+  cursor: pointer;
+}
+
+.button-buscar button:hover {
+  background-color: white;
+  color: black;
+  transition-duration: .5s;
+}
 
 .hero div.titulo-secundario {
 
