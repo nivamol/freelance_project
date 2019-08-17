@@ -169,6 +169,8 @@ section.skills {
   font-size: 1.3em;
   font-family: var(--fuentePrimaria);
   font-weight: lighter;
+  text-align: justify;
+  letter-spacing: 0;
 }
 
 div.html span {
