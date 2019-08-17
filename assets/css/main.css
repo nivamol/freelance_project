@@ -148,11 +148,21 @@ div.credits {
 }
 
 section.skills {
+  display: flex;
+  margin-top: 5em;
+  height: 90vh;
+}
 
+.skills div.skill {
+  flex: 1;
+  text-align: center;
+}
+
+.skill span.icon {
+  font-size: 10em;
 }
 
 div.html span {
-
 }
 
 div.html h3 {
