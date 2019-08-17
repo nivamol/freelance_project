@@ -149,7 +149,7 @@ div.credits {
 
 section.skills {
   display: flex;
-  margin-top: 5em;
+  margin-top: 10em;
   height: 90vh;
 }
 
@@ -165,6 +165,8 @@ section.skills {
 .skill p {
   padding: 2em;
   font-size: 1.3em;
+  font-family: var(--fuentePrimaria);
+  font-weight: lighter;
 }
 
 div.html span {
