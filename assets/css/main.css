@@ -136,5 +136,13 @@ div.button-buscar {
 }
 
 .hero div.titulo-secundario {
+  font-family: var(--fuentePrimaria);
+  font-size: .8em;
+  width: 70%;
+  margin: 2em auto;
+}
 
+div.credits {
+  font-size: .8em;
+  margin-top: 2em;
 }
