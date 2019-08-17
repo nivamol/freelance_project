@@ -162,6 +162,11 @@ section.skills {
   font-size: 10em;
 }
 
+.skill p {
+  padding: 2em;
+  font-size: 1.3em;
+}
+
 div.html span {
 }
 
