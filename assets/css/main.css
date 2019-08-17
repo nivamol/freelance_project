@@ -154,6 +154,7 @@ section.skills {
   height: 90vh;
 }
 
+
 .skills div.skill {
   flex: 1;
   text-align: center;
@@ -162,6 +163,7 @@ section.skills {
 
 .skill span.icon {
   font-size: 10em;
+  color: var(--colorPrimario);
 }
 
 .skill p {
@@ -178,6 +180,8 @@ div.html span {
 
 div.skill h3 {
   font-size: 1.7em;
+  color: var(--colorPrimario);
+  font-weight: bolder;
 }
 
 div.css span {
