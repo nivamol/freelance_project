@@ -149,7 +149,8 @@ div.credits {
 
 section.skills {
   display: flex;
-  margin-top: 10em;
+  align-items: center;
+  margin-top: 5em;
   height: 90vh;
 }
 
