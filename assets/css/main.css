@@ -227,9 +227,18 @@ section.projects {
 }
 
 .projects p {
-
+  font-size: 1.3em;
 }
 
 .projects h3 {
   font-size: 3em;
+}
+
+.projects img {
+  width: 400px; 
+  height: 370px;
+  margin: 2em 0 0 2em;
+  border-radius: 50%;
+  border: 5px solid var(--colorPrimario);
+  box-shadow: #134156;
 }
