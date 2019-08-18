@@ -334,13 +334,13 @@ div.button input {
   background-color: black;
   border: none;
   width: 100%;
-  font-size: 1.3em;
+  font-size: 1em;
   background-color: var(--colorTerciario);
   font-family: var(--fuentePrimaria);
 }
 
 div.button button {
-  font-size: 2em;
+  font-size: 1em;
   font-family: var(--fuentePrimaria);
   border-radius: 30px;
   padding: .3em;
