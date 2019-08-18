@@ -281,11 +281,14 @@ footer h3 {
 }
 
 footer section#recomendaciones {
-
+  display: flex;
+  text-align: center;
+  font-family: var(--fuentePrimaria);
+  font-size: 1.1em;
+  font-weight: lighter;
 }
 
 #recomendaciones div.rec {
-
 }
 
 .rec img {
