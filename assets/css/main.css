@@ -326,7 +326,7 @@ div.button {
   margin-top: 2em;
   border-radius: 40px;
   padding: 2em;
-  background-color: var(--colorPrimario);
+  background-color: var(--colorTerciario);
 }
 
 div.button input {
@@ -334,7 +334,7 @@ div.button input {
   border: none;
   width: 100%;
   font-size: 1.5em;
-  background-color: var(--colorPrimario);
+  background-color: var(--colorTerciario);
   font-family: var(--fuentePrimaria);
 }
 
