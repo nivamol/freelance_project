@@ -316,3 +316,28 @@ div.social-media {
 .social-media span {
   padding: 0 .3em;
 }
+
+div.button {
+  border: 5px solid var(--colorPrimario);
+  text-align: center;
+  display: flex;
+  width: 60%;
+  margin: 0 auto;
+  margin-top: 2em;
+  border-radius: 40px;
+  padding: 2em;
+  background-color: var(--colorPrimario);
+}
+
+div.button input {
+  background-color: black;
+  border: none;
+  width: 100%;
+  font-size: 1.5em;
+  background-color: var(--colorPrimario);
+  font-family: var(--fuentePrimaria);
+}
+
+div.button button {
+
+}
