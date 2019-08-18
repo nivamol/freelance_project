@@ -301,3 +301,13 @@ footer section#recomendaciones {
   margin: 0 auto;
   padding-top: 1em;
 }
+
+div.social-media {
+  margin-top: 2em;
+  font-size: 1.5em;
+  text-align: center;
+}
+
+.social-media span {
+  padding: 0 .3em;
+}
