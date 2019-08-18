@@ -289,10 +289,11 @@ footer section#recomendaciones {
 }
 
 #recomendaciones div.rec {
+  margin-top: 2em;
 }
 
-.rec img {
-
+.rec span {
+  font-size: 4em;
 }
 
 .rec p {
