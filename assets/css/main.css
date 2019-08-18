@@ -270,7 +270,7 @@ section#servicios {
 
 footer {
   background-color: black;
-  color: var(--colorSecundario);
+  color: var(--colorTerciario);
 }
 
 footer h3 {
@@ -289,7 +289,7 @@ footer section#recomendaciones {
 }
 
 #recomendaciones div.rec {
-  margin-top: 2em;
+  margin-top: 1.2em;
 }
 
 .rec span {
@@ -297,5 +297,7 @@ footer section#recomendaciones {
 }
 
 .rec p {
-
+  width: 80%;
+  margin: 0 auto;
+  padding-top: 1em;
 }
