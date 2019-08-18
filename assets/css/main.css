@@ -197,11 +197,13 @@ div.JS span {
 section.projects {
   font-family: var(--fuentePrimaria);
   text-align: center;
+  height: 100vh;
 
 }
 
 .projects p {
-
+  width: 70%;
+  margin: 0 auto;
 }
 
 .projects h3 {
@@ -209,7 +211,7 @@ section.projects {
 } 
 
 .prjects img {
-  
+
 }
 
 
