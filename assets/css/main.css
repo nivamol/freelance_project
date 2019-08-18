@@ -325,19 +325,25 @@ div.button {
   margin: 0 auto;
   margin-top: 2em;
   border-radius: 40px;
-  padding: 2em;
+  padding: 1em;
   background-color: var(--colorTerciario);
+  padding: 1.2em; 
 }
 
 div.button input {
   background-color: black;
   border: none;
   width: 100%;
-  font-size: 1.5em;
+  font-size: 1.3em;
   background-color: var(--colorTerciario);
   font-family: var(--fuentePrimaria);
 }
 
 div.button button {
-
+  font-size: 2em;
+  font-family: var(--fuentePrimaria);
+  border-radius: 30px;
+  padding: .3em;
+  background-color: var(--colorSecundario);
+  font-family: var(--fuentePrimaria);
 }
