@@ -244,12 +244,15 @@ section.projects {
 }
 
 section#servicios {
+  height: 100vh;
   display: grid;
   grid-template: repeat(6, 1fr) / repeat(2, 1fr);
+  text-align: center;
+  font-family: var(--fuentePrimaria);
+  font-size: 1.4em;
 }
 
 #servicios div.servicios {
-
 }
 
 .servicios h3 {
@@ -257,5 +260,4 @@ section#servicios {
 }
 
 .servicios p {
-
 }
