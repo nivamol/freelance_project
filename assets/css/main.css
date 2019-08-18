@@ -254,11 +254,16 @@ section#servicios {
 }
 
 #servicios div.servicios {
+  padding: 1.4em;
 }
 
 .servicios h3 {
-
+  
 }
 
 .servicios p {
+  font-weight: lighter;
+  width: 90%;
+  margin: 0 auto;
+  text-align: center;
 }
