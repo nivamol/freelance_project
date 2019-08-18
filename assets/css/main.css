@@ -269,7 +269,8 @@ section#servicios {
 }
 
 footer {
-
+  background-color: black;
+  color: var(--colorSecundario);
 }
 
 footer h3 {
@@ -289,5 +290,5 @@ footer section#recomendaciones {
 }
 
 .rec p {
-  
+
 }
