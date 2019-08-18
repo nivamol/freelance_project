@@ -194,3 +194,21 @@ div.JS span {
 }
 
 
+section.projects {
+  font-family: var(--fuentePrimaria);
+  text-align: center;
+}
+
+
+.projects div.projects {
+
+
+}
+
+.projects p {
+
+}
+
+.projects h3 {
+  font-size: 3em;
+}
