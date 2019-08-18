@@ -308,6 +308,11 @@ div.social-media {
   text-align: center;
 }
 
+.social-media a {
+  text-decoration: none;
+  color: var(--colorTerciario);
+}
+
 .social-media span {
   padding: 0 .3em;
 }
